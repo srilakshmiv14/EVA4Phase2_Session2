@@ -61,8 +61,16 @@ With inverted residual blocks, we do the opposite and squeeze the layers where t
 
 **FlyingBirds:**
 
+![FlyingBirds](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Misclassified%20Images%20-%20FlyingBirds.png)
+
 **LargeQuadCopters:**
+
+![LargeQuadCopters](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Misclassified%20Images%20-%20LargeQuadCopters.png)
 
 **SmallQuadCopters:**
 
+![SmallQuadCopters](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Misclassified%20Images%20-%20SmallQuadCopters.png)
+
 **WingedDrones:**
+
+![WingedDrones](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Misclassified%20Images%20-%20WingedDrones.png)
