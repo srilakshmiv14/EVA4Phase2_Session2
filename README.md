@@ -61,7 +61,7 @@ With inverted residual blocks, we do the opposite and squeeze the layers where t
 
 
 **20 Epochs**
-[20 Epochs](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Session_2_Assignment_Acc_84_61(20_epochs).ipynb)
+(https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Session_2_Assignment_Acc_84_61(20_epochs).ipynb)
 
 **Resizing Strategy:**
 
