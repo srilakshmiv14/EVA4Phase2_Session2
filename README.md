@@ -49,4 +49,4 @@ MobileNet V2 Model (Pretrained model from torch) we take and train the model acc
 ***Inverted Residuals - the inverted block has far fewer parameters:***
 With inverted residual blocks, we do the opposite and squeeze the layers where the skip connections are linked. This hurts the performance of the network. The authors introduced the idea of a linear bottleneck where the last convolution of a residual block has a linear output before it’s added to the initial activations.
 
-
+![MobileNet]()
