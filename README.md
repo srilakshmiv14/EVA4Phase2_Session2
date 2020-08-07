@@ -57,11 +57,11 @@ With inverted residual blocks, we do the opposite and squeeze the layers where t
 **PYNB Files:**
 
 **25 Epochs**
-![25 Epochs](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Session2_MobileNet_Acc_84_72(25_epochs).ipynb)
+[25 Epochs](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Session2_MobileNet_Acc_84_72(25_epochs).ipynb)
 
 
 **20 Epochs**
-![20 Epochs](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Session_2_Assignment_Acc_84_61(20_epochs).ipynb)
+[20 Epochs](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Session_2_Assignment_Acc_84_61(20_epochs).ipynb)
 
 **Resizing Strategy:**
 
