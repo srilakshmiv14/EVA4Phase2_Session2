@@ -37,7 +37,7 @@ Each group is supposed to collect 1000 Images for a class of Images (FlyingBirds
 - **Image Resize Strategy:** 
 GIMP – GNU Image Manipulation Program for resizing images into 224 * 224 without cropping or altering the image and to convert all images to JPEG
 
-- **Overall Test / Validation Accuracy:** *84.72 (25 epochs), 84.61 (20 epochs)*
+- **Overall Test / Validation Accuracy:** *84.72 (25 Epochs), 84.61 (20 Epochs)*
 
 - **Model:** 
-Mobilenet V2 Model (Pretrained model from torch) we take and train the model according to our 4 classes of images (4 features classifier).
+MobileNet V2 Model (Pretrained model from torch) we take and train the model according to our 4 classes of images (4 features classifier).
