@@ -31,18 +31,18 @@ Each group is supposed to collect 1000 Images for a class of Images (FlyingBirds
 | SmallQuadCopters | 3621 |
 | WingedDrones | 5549 |
 
-**Train and Validation Split:**
+- **Train and Validation Split:**
 
 70:30 that will give 15143 images for training (train) and 6490 images for testing/validation (val)
 
-**Image Resize Strategy:**
+- **Image Resize Strategy:**
 
 GIMP – GNU Image Manipulation Program for resizing images into 224 * 224 without cropping or altering the image and to convert all images to JPEG
 
-**Overall Test / Validation Accuracy:**
+- **Overall Test / Validation Accuracy:**
 
 84.72 (25 epochs), 84.61 (20 epochs) 
 
-**Model:**
+- **Model:**
 
 Mobilenet V2 Model (Pretrained model from torch) we take and train the model according to our 4 classes of images (4 features classifier).
