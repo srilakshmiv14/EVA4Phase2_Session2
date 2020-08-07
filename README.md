@@ -51,11 +51,40 @@ With inverted residual blocks, we do the opposite and squeeze the layers where t
 
 ![MobileNet](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/MobileNet%20Architecture.png)
 
+**Dataset Link:**
 
 
+**PYNB Files:**
+
+**25 Epochs**
+
+![25 Epochs](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Session2_MobileNet_Acc_84_72(25_epochs).ipynb)
 
 
+**20 Epochs**
 
+![20 Epochs](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Session_2_Assignment_Acc_84_61(20_epochs).ipynb)
+
+**Resizing Strategy:**
+
+We have used GIMP Image Editor tool to resize the images and to convert all images to JPEG. Used BIMP for GIMP to perform batch manipulation of Images
+
+**Model Used:**
+
+Mobilenet V2 Model (Pretrained model from torch) we take and train the model according to our 4 classes of images (4 features classifier).
+
+**Accuracy vs Epochs Graphs for Train and Test Curves:**
+
+Overall Test / Validation Accuracy: *84.72 (25 epochs), 84.61 (20 epochs)*
+
+**Training and Testing Accuracy:**
+
+![Training and Testing Accuracy](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Train%20and%20Validation%20Accuracy.png)
+
+
+**Training and Testing Loss**
+
+![Training and Testing Loss](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/Train%20and%20Validation%20Loss.png)
 
 **Misclassified Images:**
 
