@@ -52,7 +52,7 @@ With inverted residual blocks, we do the opposite and squeeze the layers where t
 ![MobileNet](https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/MobileNet%20Architecture.png)
 
 **Dataset Link:**
-
+(https://drive.google.com/drive/u/0/folders/1kfswxVs_9cr-b2vZb9m3eAz9geUAIuI_)
 
 **PYNB Files:**
 
