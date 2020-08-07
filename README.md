@@ -71,6 +71,9 @@ We have used GIMP Image Editor tool to resize the images and to convert all imag
 
 Mobilenet V2 Model (Pretrained model from torch) we take and train the model according to our 4 classes of images (4 features classifier).
 
+**Model Summary Obtained:**
+(https://github.com/srilakshmiv14/EVA4Phase2_Session2/blob/master/MobileNetV2%20Model%20Summary.doc)
+
 **Accuracy vs Epochs Graphs for Train and Test Curves:**
 
 Overall Test / Validation Accuracy: *84.72 (25 epochs), 84.61 (20 epochs)*
