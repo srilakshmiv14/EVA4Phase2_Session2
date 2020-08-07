@@ -25,7 +25,7 @@ Each group is supposed to collect 1000 Images for a class of Images (FlyingBirds
 
 
 | Class | Number of Images |
-| :----------------: | :----------------: |
+| :---------------- | :----------------: |
 | FlyingBirds | 8333 |
 | LargeQuadCopters | 4130 |
 | SmallQuadCopters | 3621 |
